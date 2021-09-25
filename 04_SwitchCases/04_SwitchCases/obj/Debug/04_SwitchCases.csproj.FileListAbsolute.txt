@@ -1,0 +1,2 @@
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.AssemblyReference.cache
+C:\Users\Savannah\Desktop\ElevenFiftyProjects\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.CoreCompileInputs.cache
